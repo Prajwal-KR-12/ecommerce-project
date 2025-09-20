@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "price": 15.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=T-Shirt"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jeans",
+    "price": 49.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Jeans"
+  },
+  {
+    "id": 3,
+    "name": "Stylish Sneakers",
+    "price": 79.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Sneakers"
+  },
+  {
+    "id": 4,
+    "name": "Leather Jacket",
+    "price": 199.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Jacket"
+  },
+  {
+    "id": 5,
+    "name": "Baseball Cap",
+    "price": 12.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Cap"
+  },
+  {
+    "id": 6,
+    "name": "Comfortable Hoodie",
+    "price": 39.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Hoodie"
+  },
+  {
+    "id": 7,
+    "name": "Elegant Watch",
+    "price": 249.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Watch"
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 89.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Sunglasses"
+  },
+  {
+    "id": 9,
+    "name": "Leather Belt",
+    "price": 34.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Belt"
+  },
+  {
+    "id": 10,
+    "name": "Backpack",
+    "price": 59.99,
+    "image": "https://placehold.co/300x200/d1d4ff/333333?text=Backpack"
+  }
+]
